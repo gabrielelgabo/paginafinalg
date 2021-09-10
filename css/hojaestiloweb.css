@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+text-align: center;
+}
+
+body{
+background-image: url("../img/retrofondo.jpg");
+widht: 1980px;
+}
+
+p{
+text-align: center;
+}
+
+.piePagina{
+text-align: center;
+padding-left: 350px;
+}
